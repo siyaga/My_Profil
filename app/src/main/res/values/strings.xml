@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">My Profil</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="deskripsi_profil">Saya merupakan seorang individu yang terbiasa bersosialisasi, bertemu serta berkerja sama dengan orang baru itu hal biasa bagi saya. Hal menarik dari diri saya adalah sangat dikenal sebagai seorang pendengar yang baik untuk setiap orang yang ada di sekeliling saya.</string>
+    <string name="nama_profil">Ananda Marwanaya Putra</string>
+    <string name="deskripsi_hobby">Basket ball, Futsal, komunity</string>
+    <string name="deskripsi_makes">Deskripsi Makes</string>
+    <string name="deskripsi_mikes">Deskripsi Mikes</string>
+    <string name="deskripsi_interest">female</string>
+    <string name="deskripsi_cita_cita">Basket Ball Profesional</string>
+    <string name="deskripsi_belajar">Deskripsi Belajar</string>
+</resources>
